@@ -2,7 +2,6 @@ import java.util.*;
 
 public class Convert
 {
-  // Das ist die Convert-Datei
   private String[] Str, StrArr, StrA, StrCode, SCode, Astr;
   private String[][] StrMat, StrM, Mstr, CodeStrM, MAscii, Ascii;
   private int n, m;
